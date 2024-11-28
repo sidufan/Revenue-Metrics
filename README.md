@@ -6,3 +6,5 @@ The dashboard visualizes key metrics like Monthly Recurring Revenue (MRR), Paid 
 Strategically, this project aims to support better decision-making by identifying revenue growth drivers and optimizing business processes. Students working on this project gain practical experience in financial analysis, SQL querying, and creating actionable dashboards in tools like Tableau, enhancing their data analytics skills.
 
 This dashboard also includes key performance indicators (KPIs) such as Average Lifetime Value (LTV), Customer Lifetime (LT), and Paid Users Count, offering a comprehensive toolkit for monitoring financial health.
+
+Explore the interactive dashboard: [Revenue Metrics Dashboard](https://public.tableau.com/views/RevenueMetricsProject_17324484818520/RevenueMetrics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
